@@ -69,10 +69,6 @@ My work focuses on building scalable systems, enhancing information security, an
 
 <img alt="Windows Forms" src="https://img.shields.io/badge/-Windows%20Forms-0078D6?style=flat-square&logo=windows&logoColor=white"/>
 
-<img alt="Oracle Database" src="https://img.shields.io/badge/-Oracle%20Database-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-
-<img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=mysql&logoColor=white"/>
-
 </p>
 
 ---
