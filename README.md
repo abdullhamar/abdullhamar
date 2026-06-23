@@ -4,7 +4,7 @@
 
 # ABDULLAH AMMAR
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Information+Technology+Graduate;Cybersecurity+Professional;Django+Backend+Developer;Information+Security+Specialist;Building+Secure+and+Scalable+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Information+Security+Graduate;Cybersecurity+Professional;Backend+Developer;Information+Security+Specialist;Building+Secure+and+Scalable+Systems" />
 
 <img src="https://komarev.com/ghpvc/?username=abdullhamar&label=Profile+Views&color=0891b2&style=for-the-badge" />
 
