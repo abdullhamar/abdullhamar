@@ -134,12 +134,15 @@ The system centralizes customer management, employee administration, billing ope
 
 # 💼 Experience Highlights
 
-* Developed a graduation project for a governmental security environment.
-* Built multiple web applications using Django and PostgreSQL.
-* Designed secure database-driven systems.
-* Developed cybersecurity tools and automation scripts using Python.
-* Experienced in system analysis, software documentation, and technical reporting.
-* Worked on digital transformation and information management solutions.
+* Developed and delivered a security-focused graduation project for the Criminal Investigation Department, aimed at improving information management and operational efficiency.
+* Designed and implemented full-stack web applications using Django, PostgreSQL, and modern frontend technologies.
+* Built enterprise desktop applications using C#, Windows Forms, and Oracle Database.
+* Developed cybersecurity-focused tools for log analysis, threat detection, and security monitoring using Python.
+* Designed relational database systems and optimized data management workflows for business and security applications.
+* Produced technical documentation, system analysis reports, and software design artifacts throughout the software development lifecycle.
+* Applied secure software development principles and best practices in information security and system architecture.
+* Contributed to digital transformation initiatives by developing solutions that automate processes and improve organizational efficiency.
+
 
 ---
 
