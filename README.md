@@ -14,7 +14,7 @@
 
 # 👋 About Me
 
-Information Technology Graduate with a strong interest in Cybersecurity, Backend Development, and Secure Software Engineering.
+Information Security Graduate with a strong interest in Cybersecurity, Backend Development, and Secure Software Engineering.
 
 I specialize in designing and developing secure web applications, information management systems, and cybersecurity-focused solutions using modern technologies and best practices.
 
