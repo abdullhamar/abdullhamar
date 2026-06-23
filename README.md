@@ -99,16 +99,30 @@ A Python-based security monitoring tool that analyzes security logs, detects sus
 
 ---
 
-## 🌍 Starlink Management Account System (SMAS)
+## 🌍  Starlink Account Management System (SAMS)
 
-A web-based platform developed for account management, monitoring, and operational administration.
+A desktop-based enterprise management system developed using C# and Oracle Database to support Starlink service operations and customer administration.
+
+The system centralizes customer management, employee administration, billing operations, support ticket handling, reporting, and user access control within a single platform, improving operational efficiency and data organization.
+
+### Key Features
+
+* Employee Management
+* Customer Management
+* Billing & Subscription Tracking
+* Support Ticket Management
+* Reporting & Auditing
+* Authentication & Authorization
+* User Account Administration
 
 ### Technologies
 
-* Django
-* PostgreSQL
-* JavaScript
-* Tailwind CSS
+* C#
+* Windows Forms
+* Oracle Database 10g
+* SQL
+* Oracle Managed Data Access
+
 
 ---
 
