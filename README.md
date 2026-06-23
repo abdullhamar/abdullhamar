@@ -4,7 +4,7 @@
 
 # ABDULLAH AMMAR
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;Django+Developer;AI+Enthusiast;Software+Developer;Building+Secure+Digital+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Information+Technology+Graduate;Cybersecurity+Professional;Django+Backend+Developer;Information+Security+Specialist;Building+Secure+and+Scalable+Systems" />
 
 <img src="https://komarev.com/ghpvc/?username=abdullhamar&label=Profile+Views&color=0891b2&style=for-the-badge" />
 
@@ -14,21 +14,24 @@
 
 # 👋 About Me
 
-🔐 Information Security Student
+Information Technology Graduate with a strong interest in Cybersecurity, Backend Development, and Secure Software Engineering.
 
-💻 Django Developer
+I specialize in designing and developing secure web applications, information management systems, and cybersecurity-focused solutions using modern technologies and best practices.
 
-🤖 Artificial Intelligence Enthusiast
+My work focuses on building scalable systems, enhancing information security, and leveraging technology to solve real-world challenges.
 
-🌐 Full Stack Web Development
+### Current Focus
 
-🎨 UI/UX Design
-
-🚀 Passionate about building secure and scalable digital solutions.
+* 🔐 Cybersecurity & Information Security
+* 💻 Django Backend Development
+* 🌐 Secure Web Applications
+* 🗄️ Database Design & Management
+* 📊 System Analysis & Design
+* 🤖 AI-Assisted Software Development
 
 ---
 
-# ⚡ Things I Code With
+# ⚡ Technology Stack
 
 <p align="center">
 
@@ -48,15 +51,7 @@
 
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-<img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-
-<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-
-<img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-
-<img alt="ASP.NET" src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white"/>
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
@@ -76,50 +71,80 @@
 
 ## 🔐 Security Information Integration Platform
 
-Graduation Project for Criminal Investigation Department.
+Graduation Project developed for the Criminal Investigation Department.
+
+A centralized platform designed to integrate security information from multiple sources, improve operational efficiency, enhance reporting capabilities, and support data-driven decision-making.
 
 ### Technologies
 
-- Django
-- PostgreSQL
-- Tailwind CSS
-- REST API
-- Security Integration
+* Django
+* PostgreSQL
+* REST API
+* Tailwind CSS
+* Security Information Management
+
+---
+
+## 🔍 Security Log Analyzer
+
+A Python-based security monitoring tool that analyzes security logs, detects suspicious activities, identifies failed authentication attempts, and detects SQL Injection attacks.
+
+### Technologies
+
+* Python
+* Regular Expressions
+* Security Monitoring
+* Threat Detection
+* Log Analysis
 
 ---
 
 ## 🌍 Starlink Management Account System (SMAS)
 
-Account management and monitoring platform.
+A web-based platform developed for account management, monitoring, and operational administration.
 
 ### Technologies
 
-- Django
-- PostgreSQL
-- JavaScript
+* Django
+* PostgreSQL
+* JavaScript
+* Tailwind CSS
 
 ---
 
-## 🤖 AI & Cybersecurity Research
+# 💼 Experience Highlights
 
-Research and development projects focused on:
-
-- Artificial Intelligence
-- Cybersecurity
-- Secure Software Development
-- Information Security
+* Developed a graduation project for a governmental security environment.
+* Built multiple web applications using Django and PostgreSQL.
+* Designed secure database-driven systems.
+* Developed cybersecurity tools and automation scripts using Python.
+* Experienced in system analysis, software documentation, and technical reporting.
+* Worked on digital transformation and information management solutions.
 
 ---
 
-# 🏆 Certifications & Achievements
+# 🎯 Professional Interests
 
-- 🔐 Certified in Cybersecurity & System Protection
-- 🤖 Artificial Intelligence Program
-- 🎓 ICDL Certified
-- 👨‍🏫 Training Of Trainers (TOT)
-- 🏅 National Robotics & AI Championship Participant
-- 🌍 AI ERA Global Camp Participant
-- 🚀 AINarabic Initiative Contributor
+* Cybersecurity
+* Information Security
+* Secure Software Development
+* Backend Development
+* Digital Transformation
+* System Analysis & Design
+* Artificial Intelligence Applications
+* Security Monitoring & Threat Detection
+
+---
+
+# 🏆 Certifications & Professional Development
+
+* Artificial Intelligence Programs
+* Cybersecurity & Information Security Training
+* ICDL Certification
+* Training Of Trainers (TOT)
+* AI ERA Global Camp Participant
+* National Robotics & AI Championship Participant
+* AINarabic Initiative Contributor
 
 ---
 
@@ -155,21 +180,11 @@ Research and development projects focused on:
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullhamar&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 💡 Daily Inspiration
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
@@ -197,8 +212,8 @@ Research and development projects focused on:
 
 <div align="center">
 
-## 🚀 Building Secure Digital Solutions For The Future
+## 🔐 Building Secure Systems & Digital Solutions
 
-### Thanks for visiting my profile ❤️
+### Turning Ideas into Secure, Scalable, and Impactful Software
 
 </div>
